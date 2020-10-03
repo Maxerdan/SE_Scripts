@@ -1,0 +1,3 @@
+C:\Users\Viral\source\repos\SE_Scripts\SE_Scripts\obj\x64\Debug\SE_Scripts.csprojAssemblyReference.cache
+C:\Users\Viral\source\repos\SE_Scripts\SE_Scripts\obj\x64\Debug\SE_Scripts.exe.config
+C:\Users\Viral\source\repos\SE_Scripts\SE_Scripts\obj\x64\Debug\SE_Scripts.csproj.CoreCompileInputs.cache
